@@ -10,41 +10,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Aidan+Decker+%F0%9F%91%8B;Java+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;Python+%C2%B7+PyTorch+%C2%B7+ML+in+production" alt="Typing SVG" />
 
-<br/># Generates a contribution-grid snake SVG on the `output` branch.
-# Profile README loads it from:
-#   https://raw.githubusercontent.com/aidandaniel/aidandaniel/output/github-contribution-grid-snake.svg
-# Repo must be named aidandaniel/aidandaniel (same as GitHub username).
-
-name: Generate snake animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 [![Profile views](https://komarev.com/ghpvc/?username=aidandaniel&label=profile+views&color=0e75b6&style=flat)](https://github.com/aidandaniel)
