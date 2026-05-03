@@ -23,8 +23,8 @@
 
 I build **backend services** and **data-heavy systems** — Spring Boot and PostgreSQL on one side, Python and PyTorch when the problem needs learning or experimentation. I care about schemas that age well, APIs that are boring to operate, and ML that earns its place in the stack.
 
-- **Focus:** JVM backends, relational data, and ML that plugs into real products
-- **Currently:** *add a line — e.g. thesis, job search, a project you’re shipping*
+- **Focus:** JVM backends, relational data, and developing AI systems that plugs into real products
+- **Currently:** *Working on Early breast cancer detection research using ML *
 - **Ask me about:** Spring, Postgres, Python, PyTorch, or turning notebooks into services
 
 ---
