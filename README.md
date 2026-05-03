@@ -1,1 +1,85 @@
+[README.md](https://github.com/user-attachments/files/27312771/README.md)
 
+<!--
+  Profile README — repo must be public and named: aidandaniel/aidandaniel
+  Optional: add `.github/workflows/snake.yml` from this folder, enable Actions.
+-->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Aidan+Decker+%F0%9F%91%8B;Java+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;Python+%C2%B7+PyTorch+%C2%B7+ML+in+production" alt="Typing SVG" />
+
+<br/>
+
+[![Profile views](https://komarev.com/ghpvc/?username=aidandaniel&label=profile+views&color=0e75b6&style=flat)](https://github.com/aidandaniel)
+[![GitHub followers](https://img.shields.io/github/followers/aidandaniel?label=followers&style=flat&logo=github&color=0e75b6)](https://github.com/aidandaniel?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/aidandaniel?label=stars&style=flat&logo=github&color=0e75b6)](https://github.com/aidandaniel?tab=repositories)
+
+</div>
+
+---
+
+### About
+
+I build **backend services** and **data-heavy systems** — Spring Boot and PostgreSQL on one side, Python and PyTorch when the problem needs learning or experimentation. I care about schemas that age well, APIs that are boring to operate, and ML that earns its place in the stack.
+
+- **Focus:** JVM backends, relational data, and ML that plugs into real products
+- **Currently:** *add a line — e.g. thesis, job search, a project you’re shipping*
+- **Ask me about:** Spring, Postgres, Python, PyTorch, or turning notebooks into services
+
+---
+
+### Tech I reach for
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,postgres&perline=9" alt="Java, Spring Boot, Python, PyTorch, PostgreSQL" />
+  </a>
+</p>
+
+---
+
+### GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aidandaniel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=false" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidandaniel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=aidandaniel&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aidandaniel&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+</p>
+
+---
+
+### Featured projects
+
+| Project | One-liner |
+|--------|-----------|
+| *Pin two repos you’re proud of* | *Replace this table with real names and links.* |
+
+---
+
+### Connect
+
+<p align="left">
+  <a href="https://github.com/aidandaniel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aidan-daniel-decker23"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
+<div align="center">
+
+**Thanks for stopping by — PRs, issues, and good ideas always welcome.**
+
+<img src="https://raw.githubusercontent.com/aidandaniel/aidandaniel/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
+<sub>Snake missing? In repo <strong>aidandaniel/aidandaniel</strong>: add <code>.github/workflows/snake.yml</code> (from this folder), turn on <strong>Actions</strong>, then <strong>Actions → Generate snake animation → Run workflow</strong>. After it finishes, refresh your profile.</sub>
+
+</div>
