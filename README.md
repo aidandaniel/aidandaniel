@@ -55,6 +55,6 @@ I build **backend services** and **data-heavy systems** — Spring Boot and Post
 
 <img src="https://raw.githubusercontent.com/aidandaniel/aidandaniel/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 
-<sub>Snake missing? In repo <strong>aidandaniel/aidandaniel</strong>: add <code>.github/workflows/snake.yml</code> </sub>
+
 
 </div>
