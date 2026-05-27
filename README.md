@@ -26,7 +26,7 @@ I build **backend services** and **data-heavy systems** — Spring Boot and Post
 
 - **Focus:** JVM backends, relational data, and developing AI systems that plugs into real products
 - **Currently:** Working on Early breast cancer detection research using ML 
-- **Ask me about:** Spring, Postgres, Python, PyTorch, or turning notebooks into services
+- **Ask me about:** Spring, Postgres, Python, PyTorch, or turning LLMs into services
 
 ---
 
