@@ -51,7 +51,7 @@ I build **backend services** and **data-heavy systems** — Spring Boot and Post
 
 <div align="center">
 
-**Thanks for stopping by — PRs, issues, and good ideas always welcome.**
+**Thanks for stopping by **
 
 <img src="https://raw.githubusercontent.com/aidandaniel/aidandaniel/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 
