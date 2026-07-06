@@ -20,7 +20,7 @@
 
 ### About
 
-I build **full-stack applications** with a focus on **AI-powered systems** and **backend infrastructure**. I combine Spring Boot + PostgreSQL for production services with Python + PyTorch for ML research and experimentation.
+**3x Hackathon** Wins I build **full-stack applications** with a focus on **AI-powered systems** and **backend infrastructure**.
 
 - **Focus:** Full-stack AI systems, JVM backends, and data-heavy applications  
 - **Currently:** Software Developer Intern at Intact; ML research in breast cancer detection  
