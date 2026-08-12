@@ -32,7 +32,7 @@ I build **full-stack applications** with a focus on **AI-powered systems** and *
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,postgres,react,docker&perline=9" alt="Java, Spring Boot, Python, PyTorch, PostgreSQL, React, Docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,postgres,docker&perline=9" alt="Java, Spring Boot, Python, PyTorch, PostgreSQL, React, Docker" />
   </a>
 </p>
 
