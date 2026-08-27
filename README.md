@@ -16,7 +16,7 @@
 
 </div>
 <div align="center">
-  <img src="IMG_0455.jpg" alt="Aidan Daniel" width="400" style="border-radius:50%;" />
+  <img src="IMG_0455.jpg" alt="Aidan Daniel" width="700" style="border-radius:50%;" />
 </div>
 ---
 
