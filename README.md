@@ -15,7 +15,9 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/aidandaniel?label=stars&style=flat&logo=github&color=0e75b6)](https://github.com/aidandaniel?tab=repositories)
 
 </div>
-
+<div align="center">
+  <img src="IMG_6339.jpg" alt="Aidan Daniel" width="160" style="border-radius:50%;" />
+</div>
 ---
 
 ### About
