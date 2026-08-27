@@ -22,9 +22,10 @@
 
 I build **full-stack applications** with a focus on **AI-powered systems** and **backend infrastructure**.
 
-- **Focus:** Full-stack AI systems, JVM backends, and data-heavy applications  
-- **Currently:** Software Developer Intern at Intact; ML research in breast cancer detection  
-- **Ask me about:** Spring Boot, FastAPI, PostgreSQL, Python, PyTorch, LLM integration, or AI agents
+- **Focus:** Full-stack AI systems, and infra   
+- **Currently:** ML research in breast cancer detection using ML models
+- **Things I use:** FastAPI, PostgreSQL, Python, PyTorch, LLM integration, or AI agents
+- **What I enjoy doing when not on my computer":** Hiking, Badminton, Pickleball, Rockclimbing and reading manga/manhwa
 
 ---
 
