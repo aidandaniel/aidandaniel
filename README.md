@@ -22,12 +22,9 @@
 
 ### About
 
-I build **full-stack applications** with a focus on **AI-powered systems** and **backend infrastructure**.
+Building stuff! 
 
-- **Focus:** Full-stack AI systems, and infra   
-- **Currently:** ML research in breast cancer detection using ML models
-- **Things I use:** FastAPI, PostgreSQL, Python, PyTorch, LLM integration, or AI agents
-- **What I enjoy doing when not on my computer":** Hiking, Badminton, Pickleball, Rockclimbing and reading manga/manhwa
+Breast Cancer Research using ML
 
 ---
 
